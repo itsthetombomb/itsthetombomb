@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/itsthetombomb/static/css/main.073c9b0a.css",
+    "main.js": "/itsthetombomb/static/js/main.8943c1c2.js",
+    "static/js/787.0c469836.chunk.js": "/itsthetombomb/static/js/787.0c469836.chunk.js",
+    "static/media/logo.svg": "/itsthetombomb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/itsthetombomb/index.html",
+    "main.073c9b0a.css.map": "/itsthetombomb/static/css/main.073c9b0a.css.map",
+    "main.8943c1c2.js.map": "/itsthetombomb/static/js/main.8943c1c2.js.map",
+    "787.0c469836.chunk.js.map": "/itsthetombomb/static/js/787.0c469836.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8943c1c2.js"
+  ]
+}
