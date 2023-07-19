@@ -7,10 +7,6 @@
   background-color: var(--primary);
 }
 
-.main {
-  margin: 2%;
-}
-
 h1 {
   font-family: 'Oswald';
   letter-spacing: 2px;
@@ -34,6 +30,7 @@ li {
   padding: 20px;
   letter-spacing: 3px;
   color: var(--secondary);
+  margin: 2%;
 }
 
 .header h1 {
@@ -49,13 +46,13 @@ li {
   position: fixed;
   width: 10%;
   color: var(--secondary);
+  margin: 2%;
 }
 
 #nav li {
   margin: 10px;
   padding: 10px;
   list-style-type: none;
-  /* font-style: italic; */
   font-weight: bold;
   font-family: 'Oswald';
   cursor: pointer;

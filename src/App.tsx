@@ -11,7 +11,7 @@ import "./App.css"
 class Home extends Component {
   render() {
     return (
-      <div className="main">
+      <>
         <Header/>
         <Nav/>
         <div className="content">
@@ -21,7 +21,7 @@ class Home extends Component {
           <Education/>
           <About/>
         </div>
-      </div>
+      </>
 
     )
   }
