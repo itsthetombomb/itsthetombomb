@@ -5,8 +5,9 @@ class Experience extends Component {
     render() {
         return (
         <section id="experience">
-            <h2>Experience</h2>
             <div className="job">
+            <h1>Experience</h1>
+            <hr/>
                 <h4>Backend Software Engineer, Mythical Games, Los Angeles CA. 01/2021 - Present</h4>
                 <ul>
                     <li>Core contributor of an EVM blockchain driven marketplace backend from inception to launch</li>
@@ -51,9 +52,9 @@ class Experience extends Component {
                 <ul>
                     <li>Extend API for cyber simulation application Project Ares (Django, Python and Flask)</li>
                 </ul>
+                
+                <h5>Download resume here</h5>
             </div>
-
-            <h6>Download resume here</h6>
         </section>
         )
     }

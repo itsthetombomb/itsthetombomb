@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Header from './components/header';
+import Nav from './components/nav';
 import Experience from './components/experience'
 import Skills from './components/skills'
 import Education from './components/education'
@@ -11,12 +12,13 @@ class Home extends Component {
   render() {
     return (
       <div className="main">
-        <Header/>    
+        <Header/>
+        <Nav/>
         <div className="content">
           <Experience/>
           <Skills/>
-          <Education/>
           <Projects/>
+          <Education/>
           <About/>
         </div>
       </div>

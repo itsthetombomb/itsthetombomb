@@ -5,6 +5,7 @@ class Skills extends Component {
         return (
             <section id="skills">
                 <h2>Skills</h2>
+                <hr/>
                 <ul>
                     <li>Proficient: Kotlin, Java, C#, Spring Boot</li>
                     <li>Familiar: Golang, Solidity, Javascript, Truffle</li>

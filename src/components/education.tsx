@@ -5,7 +5,7 @@ class Education extends Component {
         return (
             <section id="education">
                 <h2>Education, Certifications, Research</h2>
-
+                <hr/>
                 <h4>University of Colorado Boulder, Boulder CO. 2019</h4>
                 <p>Bachelor of Engineering and Applied Science, Creative Technology and Design</p>
                 <p>Minor in Computer Science, Architecture</p>
