@@ -10,17 +10,16 @@ class Experience extends Component {
             <hr/>
                 <h4>Backend Software Engineer, Mythical Games, Los Angeles CA. 01/2021 - Present</h4>
                 <ul>
-                    <li>Core contributor of an EVM blockchain driven marketplace backend from inception to launch</li>
-                    <li>Own idempotent Kotlin microservices and medium sized features that facilitate item and token operations</li>
-                    <li>Assist in designing a bridging solution to transfer items from in house blockchain to Ethereum</li>
-                    <li>Facilitate design for in game token mints, burns, and transfers with OpenZeppelin features such as Permit</li>
-                    <li>Extend execution and chain listening logic in Golang services that handle on-chain operations</li>
-                    <li>Assist in custodial key management design with third party systems such as Vault and FusionAuth</li>
-                    <li>Scrape Prometheus metrics and generate Grafana dashboards, monitor and participate in on call duties</li>
+                    <li>Core contributor of SAGA, Mythical Games' EVM-compatible ERC20/ERC721 blockchain driven marketplace backend from inception to launch</li>
+                    <li>Deliver, maintain and improve SDKs and APIs that wrap blockchain smart contracts for use in NFL Rivals and Nitro Nation mobile games.</li>
+                    <li>Successfully design, deliver and scale Kotlin and Golang microservices allowing Mythos chain to become the third largest NFT blockchain by transaction volume.</li>
+                    <li>Assist in designing self healing, event driven services by implementing retries and idempotency in Kafka consumers</li>
+                    <li>Design a safe, iterative metadata sorting algorithm to improve search preformance for Blankos Marketplace metadata</li>
+                    <li>Assist in designing a bridging solution to transfer NFTs from Mythos chain to Ethereum</li>
+                    <li>Extend chain execution and listening logic in Golang services that facilitate token mints, burns and transfers using OpenZeppelin features</li>
                     <li>Leverage Truffle and Web3.js to debug chain events and verify transactions</li>
-                    <li>Work closely with infra ops to set up helm configurations and github actions to ensure smooth deployments</li>
-                    <li>Write unit and integration tests to validate end to end workflows and avoid regressions</li>
-                    <li>Create UML diagrams to express ideas and data flow through a variety of distributed services and data stores</li>
+                    <li>Scrape Prometheus metrics, design and generate Grafana dashboards to ensure quick identification of bugs during monitoring and on call duties</li>
+                    <li>Work closely with infra ops to set up K8s and helm configurations with github actions to ensure smooth deployments</li>
                 </ul>
             </div>
 
@@ -37,6 +36,8 @@ class Experience extends Component {
                 <h4>Software Development Intern, ANSYS, Boulder CO. 05/2019 – 08/2019</h4>
                 <ul>
                     <li>Mechanical CAD Developer, extended 3D modeling engine feature set for SpaceClaim (C# .NET, WPF)</li>
+                    <li>Improve metadata storage by implementing serialization during shut down procedures</li>
+                    <li>Expand python scripting API feature to allow internal commands to be visable and recordable</li>
                 </ul>
             </div>
 
@@ -51,6 +52,7 @@ class Experience extends Component {
                 <h4>Software Development Intern, Circadence Corporation, Boulder CO. 05/2018 – 08/2018</h4>
                 <ul>
                     <li>Extend API for cyber simulation application Project Ares (Django, Python and Flask)</li>
+                    <li>Extend API to trigger explotation functionality on target machines using Kali Linux and Metasploit</li>
                 </ul>
                 
                 <h5>Download resume here</h5>
