@@ -18,7 +18,7 @@ class Education extends Component {
                     <li>Udemy Certification: Ethereum and Solidity, The Complete Developers Guide</li>
                 </ul>
 
-                <h4>Reserach</h4>
+                <h4>Research</h4>
                 <ul>
                     <li>Mobile and Networked Systems Laboratory, Boulder CO. 01/2019 – 08/2019</li>
                 </ul>
