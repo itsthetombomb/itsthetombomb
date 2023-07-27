@@ -8,18 +8,13 @@ class About extends Component {
                 <hr/>
                 <p>Im a curious backend software engineer with a rounded understanding in distributed system design around blockchain technologies.
 Seeking to learn and build with a passionate team and continue to pioneer the decentralized financial landscape.</p>
-
+                <h4>Important Links</h4>
                 <ul>
-                    <li><a href="https://www.linkedin.com/in/thomas-payne-135808155/">LinkedIn</a></li>
+                    <li>Email: tepayne97@gmail.com</li>
+                    <li><a href="https://www.linkedin.com/in/thomas-payne-135808155/">LinkedIn profile</a></li>
+                    <li>Primary github account <a href="https://github.com/itsthetombomb">itsthetombomb</a></li>
+                    <li>Secondary github account <a href="https://github.com/thpa9933">thpa9933</a></li>
                 </ul>
-                <ul>
-                    <li>Email: payne97@gmail.com<a href="https://www.linkedin.com/in/thomas-payne-135808155/">LinkedIn</a></li>
-                </ul>
-                <ul>
-                    <li>Primary github account: <a href="https://github.com/itsthetombomb"></a></li>
-                </ul>
-                <a href="https://github.com/itsthetombomb">Primary github account Itsthetombomb</a>
-                <a href="https://github.com/thpa9933">Secondary github account thpa9933</a>
             </section>
         )
     }
