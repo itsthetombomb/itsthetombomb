@@ -55,7 +55,9 @@ class Experience extends Component {
                     <li>Extend API to trigger explotation functionality on target machines using Kali Linux and Metasploit</li>
                 </ul>
                 
-                <h5>Download resume here</h5>
+                <h4>
+                    <a href="./images/ResumeThomasPayne.pdf" download>Download Resume Here</a>
+                </h4>
             </div>
         </section>
         )

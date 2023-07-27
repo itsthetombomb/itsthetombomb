@@ -19,10 +19,16 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: lighter;
 }
 
+h4 a {
+  color: black;
+  text-decoration: none;
+  font-style: italic;
+}
+
 
 li {
-  margin-top: 2px;
-  margin-bottom: 2px;
+  margin-top: 3px;
+  margin-bottom: 3px;
 }
 
 .header {
@@ -33,9 +39,6 @@ li {
   margin: 2%;
 }
 
-.header h1 {
-  margin-bottom: 0;
-}
 
 #nav {
   display: flex;
@@ -47,6 +50,7 @@ li {
   width: 10%;
   color: var(--secondary);
   margin: 2%;
+  overflow: inherit;
 }
 
 #nav li {
@@ -82,7 +86,7 @@ section {
   flex-direction: column;
   width: 60%;
   margin: 0 auto;
-  padding: 5%;
+  padding: 10%;
 }
 
 hr {
@@ -94,4 +98,9 @@ hr {
 
 #experience{
   height:auto;
+}
+
+
+#education h4, ul {
+  margin: 5px;
 }
