@@ -25,7 +25,7 @@ class Education extends Component {
                 </ul>
                 <h4>Publication</h4>
                 <ul>
-                    <li>Painometry, Wearable and Objective Quantification System for Acute Postoperative Pain Published ACM</li>
+                    <li>Painometry, Wearable and Objective Quantification System for Acute Postoperative Pain Published ACM MobiSys 202 H. Truong, et al. (Accepted on 03/07/2020)</li>
                 </ul>
             </section>
         )
