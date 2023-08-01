@@ -33,10 +33,10 @@ li {
 
 .header {
   position: absolute;
-  padding: 20px;
   letter-spacing: 3px;
   color: var(--secondary);
-  margin: 2%;
+  width: 225px;
+  margin: 3%;
 }
 
 
@@ -47,9 +47,9 @@ li {
   justify-content: center;
   overflow: hidden;
   position: fixed;
-  width: 10%;
+  width: 225px;
   color: var(--secondary);
-  margin: 2%;
+  margin: 3%;
   overflow: inherit;
 }
 
@@ -97,7 +97,8 @@ hr {
 }
 
 #experience{
-  height:auto;
+  height: auto;
+  padding-top: 3%;
 }
 
 
@@ -122,4 +123,18 @@ hr {
 #projects a {
   color: var(--secondary);
   text-decoration: none;
+}
+
+#education a {
+  color: var(--secondary);
+  text-decoration: none;
+}
+
+#experience a {
+  color: var(--secondary);
+  text-decoration: none;
+}
+
+.job h4 {
+  margin-bottom: 2px;
 }

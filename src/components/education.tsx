@@ -14,8 +14,9 @@ class Education extends Component {
 
                 <h4>Certifications</h4>
                 <ul>
-                    <li>Udemy Certification: Kubernetes and Docker, The Container Masterclass</li>
-                    <li>Udemy Certification: Ethereum and Solidity, The Complete Developers Guide</li>
+                    <li>Udemy: <a href="https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/">Design Microservices Architecture with Patterns & Principles</a></li>
+                    <li>Udemy: <a href="https://www.udemy.com/course/container-masterclass-with-docker-and-kubernetes/">Kubernetes and Docker, The Container Masterclass</a></li>
+                    <li>Udemy: <a href="https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/">Ethereum and Solidity, The Complete Developers Guide</a></li>
                 </ul>
 
                 <h4>Research</h4>
