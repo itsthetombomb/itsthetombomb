@@ -58,7 +58,7 @@ class Experience extends Component {
                 </ul>
                 
                 <h4>
-                    <a href="./images/ResumeThomasPayne.pdf" download>Download Resume Here</a>
+                    <a href="https://itsthetombomb.github.io/ResumeThomasPayne.pdf" target="_blank" download>Download Resume Here</a>
                 </h4>
             </div>
         </section>
