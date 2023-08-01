@@ -8,7 +8,7 @@ class Projects extends Component {
                 <hr/>
 
                 <h4>AnIdea</h4>
-                <p>Personal design agency that assists in generating an MVP from your idea</p>
+                <p>Personal design agency that assists in generating an minimum viable product from your idea</p>
                 <ul>
                     <li>
                     <a href="https://thpa9933.github.io/AnIdea/#/">AnIdea</a>
@@ -16,10 +16,10 @@ class Projects extends Component {
                 </ul>
 
                 <h4>AI Application</h4>
-                <p>SpringBoot distributed AI application using the OpenAI API, vector databases and prompt engineering techniques. Repo is currently private.</p>
+                <p>SpringBoot microservice AI application using OpenAI API, vector database technologies, and prompt engineering techniques. Repo is currently private</p>
                 
                 <h4>Decentralized Application</h4>
-                <p>Write a variety of small apps to familiarize myself with blockchain related tools and processes.</p>
+                <p>Write a variety of small apps to familiarize myself with blockchain related tools and processes</p>
                 <ul>
                     <li><a href="https://github.com/thpa9933/crowdCoin_dapp">CrowdCoin</a></li>
                     <li><a href="https://github.com/thpa9933/lottery_Dapp">Lottery</a></li>
