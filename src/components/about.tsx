@@ -6,9 +6,9 @@ class About extends Component {
             <section id="about">
                 <h2>About</h2>
                 <hr/>
-                <p>Im a curious backend software engineer with a rounded understanding in distributed system design around blockchain technologies.
-Seeking to learn and build with a passionate team and continue to pioneer the decentralized financial landscape.</p>
-                <h4>Important Links</h4>
+                <p>I am curious software engineer with a rounded understanding in distributed system design within blockchain technologies.
+I am seeking to learn and build with a passionate team to continue pioneering the decentralized financial landscape.</p>
+                <h4>Info and Links</h4>
                 <ul>
                     <li>Email: tepayne97@gmail.com</li>
                     <li><a href="https://www.linkedin.com/in/thomas-payne-135808155/">LinkedIn profile</a></li>
