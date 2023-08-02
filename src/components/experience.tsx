@@ -8,7 +8,7 @@ class Experience extends Component {
             <div className="job">
             <h1>Experience</h1>
             <hr/>
-                <h4>Backend Software Engineer, Mythical Games, Los Angeles CA. 01/2021 - 07/2023</h4>
+                <h4>Backend Software Engineer, Mythical Games, Los Angeles CA. 01/2022 - 07/2023</h4>
                 <ul>
                     <li>Core contributor of SAGA, Mythical Games' EVM-compatible ERC20/ERC721 blockchain driven marketplace backend from inception to launch (third largest NFT blockchain by transaction volume)</li>
                     <li>Maintain and improve SDKs and APIs that wrap blockchain smart contracts for use in NFL Rivals and Nitro Nation mobile games</li>
