@@ -7,11 +7,11 @@ class Skills extends Component {
                 <h2>Skills</h2>
                 <hr/>
                 <ul>
-                    <li>Proficient: Kotlin, Java, C#, Spring Boot</li>
+                    <li>Proficient: Kotlin, Java, C#, Spring Boot, Ktor</li>
                     <li>Familiar: Golang, Solidity, Javascript, Truffle</li>
-                    <li>Cloud: Google Cloud</li>
+                    <li>Cloud: Google Cloud, AWS</li>
                     <li>Docker, Kubernetes, Helm, Github Actions</li>
-                    <li>Event driven architecture: Kafka, gRPC</li>
+                    <li>Event sourced and event driven architecture: Kafka, gRPC</li>
                     <li>Postgres, Redis, PineconeDb</li>
                     <li>SDK and API development</li>
                     <li>Prometheus, Grafana</li>

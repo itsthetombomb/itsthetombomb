@@ -15,8 +15,14 @@ class Projects extends Component {
                     </li>
                 </ul>
 
-                <h4>AI Application</h4>
-                <p>SpringBoot microservice AI application using OpenAI API, vector database technologies, and prompt engineering techniques. Repo is currently private</p>
+                <h4>ABA Pathway, CTO</h4>
+                <p>Build and distribute an IOS and Android application connecting Autism patients to Board Certified Behavior Analysts</p>
+                <p> Lead all project initiatives with a consumer-focused approach, defining and delivering requirements to the Flutter development team to ensure
+                end-user-driven solutions.</p>
+                <p>Architect and own HIPAA compliant AWS cloud infrastructure using ECS and Fargate, with Github Action CI/CD integrations.</p>
+
+                <h4>Ask Me Questions AI</h4>
+                <p>SaaS product focusing on conversational AI technology to handle private data built on Spring boot, React, PGVector and OpenAI.</p>
                 
                 <h4>Decentralized Application</h4>
                 <p>Write a variety of small apps to familiarize myself with blockchain related tools and processes</p>

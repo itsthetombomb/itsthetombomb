@@ -8,6 +8,25 @@ class Experience extends Component {
             <div className="job">
             <h1>Experience</h1>
             <hr/>
+                <div className="job">
+                    <h4>Application Engineer - Platform, Swiss Re, San Diego CA. 10/2023 – Present</h4>
+                    <ul>
+                        <li>Developed a data-driven underwriting tool leveraging Apache Kafka, MongoDB and Occurrent to enhance reinsurance submission, pricing,
+                        quoting, and claim evaluation processes.</li>
+                        <li>Designed and implemented Kotlin with Ktor microservice boilerplates with hexagonal architecture that supports event sourcing, robust error
+                        handling and functional programming practices with Arrow.</li>
+                        <li>Provided technical leadership by closely collaborating with business analysts and external stakeholders, refining feature lifecycles, adapting API
+                        contracts, and safeguarding overall system stability.</li>
+                        <li>Initiated and led the refactoring of inter-service communication, transitioning to a CQRS-driven Redis caching solution to mitigate data loss
+                        risks and improved data consistency.</li>
+                        <li>Enhanced observability and control by implementing monitoring, logging, and feature flagging with Prometheus, Loki, Grafana, and Flipt</li>
+                        <li>Identified and eliminated performance bottlenecks through targeted optimizations, including aggregate query refinement, event-stream
+                        snapshotting, Kafka consumer group reconfigurations, and Kafka Stream aggregations.</li>
+                        <li>Develop an integration test suite that toggles between real services and mocks, improving CI pipeline runtime and supporting external
+                        environments to enhance production stability.</li>
+                    </ul>
+                </div>
+
                 <h4>Backend Software Engineer, Mythical Games, Los Angeles CA. 01/2022 - 07/2023</h4>
                 <ul>
                     <li>Core contributor of SAGA, Mythical Games' EVM-compatible ERC20/ERC721 blockchain driven marketplace backend from inception to launch (third largest NFT blockchain by transaction volume)</li>
